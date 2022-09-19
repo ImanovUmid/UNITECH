@@ -1,0 +1,3 @@
+com\accounts\AccToAccAPI\AccToAccApiApplicationTests.class
+com\accounts\AccToAccAPI\AccToAcc\AccountsRepositoryTest.class
+com\accounts\AccToAccAPI\AccToAcc\AccToAccServiceTest.class

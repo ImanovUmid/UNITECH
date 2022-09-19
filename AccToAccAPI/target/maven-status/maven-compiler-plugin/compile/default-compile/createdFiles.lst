@@ -1,0 +1,9 @@
+com\accounts\AccToAccAPI\AccToAcc\AccountsRepository.class
+com\accounts\AccToAccAPI\AccToAcc\AccToAccController.class
+com\accounts\AccToAccAPI\AccToAcc\Accounts.class
+com\accounts\AccToAccAPI\AccToAcc\ArchPayments.class
+com\accounts\AccToAccAPI\AccToAcc\LoginCheck.class
+com\accounts\AccToAccAPI\AccToAcc\ArchPaymentsRepository.class
+com\accounts\AccToAccAPI\AccToAcc\Users.class
+com\accounts\AccToAccAPI\AccToAcc\AccToAccService.class
+com\accounts\AccToAccAPI\AccToAccApiApplication.class
